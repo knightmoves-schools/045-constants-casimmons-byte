@@ -1,3 +1,3 @@
-const MAX_GUESTS = 500
+const MAX_CAPACITY = 500
 
-document.getElementById("result").innerHTML = MAX_GUESTS;
+document.getElementById("result").innerHTML = MAX_CAPACITY;
